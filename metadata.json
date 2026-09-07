@@ -2,5 +2,5 @@
   "name": "PantryPilot",
   "description": "Smart everyday cooking assistant helping home cooks decide what to cook with on-hand ingredients, cooking time, and meal preferences.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
