@@ -12,14 +12,17 @@ two different tools on the same day:
 
 | Build | Repository | How it was made |
 | --- | --- | --- |
-| **This one** | `Aaronkoo314/PantryPilot_AI_Studio` | Google AI Studio — **one prompt, one generation** |
-| Companion | [`Aaronkoo314/pantrypilot`](https://github.com/Aaronkoo314/pantrypilot) | Claude Code — dozens of prompts over about 14 hours |
+| **This one** | `Aaronkoo314/PantryPilot_AI_Studio` · [live](https://pantrypilotaistudio.vercel.app) | Google AI Studio — **one prompt, one generation** |
+| Companion | [`Aaronkoo314/pantrypilot`](https://github.com/Aaronkoo314/pantrypilot) · [live](https://pantrypilot-phi.vercel.app) | Claude Code — dozens of prompts over about 14 hours |
 
 Reading them together is the point. The coursework documents below are written as that comparison.
 
 ## Live app
 
-> **Deployed URL:** pantrypilotaistudio-lx9g4d795-aaronkoo2026-7097.vercel.app
+**<https://pantrypilotaistudio.vercel.app>**
+
+Opens in a private browser window and on a phone, with nobody signed in. The companion Claude Code
+build is at **<https://pantrypilot-phi.vercel.app>**.
 
 ## Coursework documents
 
