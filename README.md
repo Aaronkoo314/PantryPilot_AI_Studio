@@ -19,7 +19,7 @@ Reading them together is the point. The coursework documents below are written a
 
 ## Live app
 
-> **Deployed URL:** _to be added_
+> **Deployed URL:** pantrypilotaistudio-lx9g4d795-aaronkoo2026-7097.vercel.app
 
 ## Coursework documents
 
